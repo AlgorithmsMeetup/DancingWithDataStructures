@@ -1,6 +1,6 @@
 # DancingWithDataStructures
 
-### Introduction to Data Structures
+## Introduction to Data Structures
 
 ## Implementing Data Structures
 
