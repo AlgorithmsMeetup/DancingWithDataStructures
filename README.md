@@ -6,4 +6,4 @@
 
 ### Classic Questions
 
-## A Trie by Any Other Name, or Reimplementing Data Structures
+## A Trie by Any Other Name, or Reimplementing Data Structures (Using Other Data Structures)
