@@ -1,9 +1,9 @@
-# DancingWithDataStructures
+# DancingWithDataStructures: Stacks and Queues
 
 ## Introduction to Data Structures
 
-## Implementing Data Structures
+## Implementation
 
 ### Classic Questions
 
-## A Trie by Any Other Name, or Reimplementing Data Structures (Using Other Data Structures)
+##  Reimplementation(Using Other Data Structures)
