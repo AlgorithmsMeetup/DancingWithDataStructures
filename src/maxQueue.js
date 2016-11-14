@@ -41,4 +41,8 @@ class Queue {
   peek() {
     return this.items.slice(0,1)[0];
   }
+
+  getMax() {
+    return this.max[0];
+  }
 };
