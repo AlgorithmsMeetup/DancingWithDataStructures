@@ -3,8 +3,8 @@
 ## Introduction to Data Structures
 ### Stack: ###
 A sequential data structure that resembles a stack.
-Imagine a stack of plates: you would one on top of the other
-and you would remove plates by removing the one on top first. So basically: last in first out
+Imagine a stack of plates: you would put one on top of the other
+and you would remove plates by removing the ones on top first. So basically: last in first out
 ![](https://dan4kent.files.wordpress.com/2015/10/stack-of-dirty-dishes.jpg)
 ![](http://i.imgur.com/IG8cK9U.gif)
 
@@ -26,13 +26,15 @@ length
 
 ### Classic Questions
 #### balanced Parens ####
-Write a function that takes a string checks and see if all the parens
+Write a function that takes a string checks and see if all the parentheses
 match correctly
 
 Ex:
 ``` javascript
   balancedParens('(hi)');
   // returns true
+  balancedParens('}nope{');
+  // returns false
 ```
 
 #### current min of a stack ####
