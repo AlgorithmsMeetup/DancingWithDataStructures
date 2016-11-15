@@ -1,13 +1,14 @@
+// TODO fill in the blank
 class Stack {
   constructor() {
-    this.currentMin = undefined;
   }
 
-  insert() {
-    // TODO
+  insert(value) {
   }
 
   remove() {
-    // TODO
+  }
+
+  peek() {
   }
 }
