@@ -1,5 +1,4 @@
 # DancingWithDataStructures: Stacks and Queues
-
 ## Introduction to Data Structures
 ### Stack: ###
 A sequential data structure that resembles a stack.
@@ -13,6 +12,14 @@ Also a sequential data structure, just like the name suggests
 it is just line that earlier data would be removed first. So: first in first out
 ![](http://blog-daibhandai.rhcloud.com/wp-content/uploads/2016/06/delete.jpg)
 ![](https://lh3.googleusercontent.com/-R0BB9DlP9qk/Vh-QWw-DarI/AAAAAAAArGE/hwlbIt56S5kHU9W5NI0mNzkAoKsNCbxxQ/w450-h315/BdnXT7h.gif)
+
+#### Why learning these: ####
+Although it is unlikely that you would have to implement these when you are coding
+for work or personal projects because Array can pretty much do all things Stack and Queue
+
+During interviews, interviewers might still asks you to re-implement them to see if
+you know common data structures and algorithms.
+
 ## Implementation
 ### how would you implement these two classes? ###
 Requirements:
