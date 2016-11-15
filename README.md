@@ -63,6 +63,13 @@ without going through the entire stack.
   stack.currentMin();
   // returns 4;
 ```
+##  Reimplementation(Using Other Data Structures)
 #### using at most two stacks to implement a queue class ####
 Define a Queue class by using at most two stacks
-##  Reimplementation(Using Other Data Structures)
+Design an experiment to test the performance of your implementations
+
+##  Next Steps
+Check out [linked lists](https://github.com/FreeCodeCamp/FreeCodeCamp/wiki/Data-Structure-Linked-Lists), and reimplement the queue again using this type of data structure ([link](https://gist.github.com/thorn0/b6856656b3c7684d370f9967692d95ce)), and compare the performance with your earlier implementations.
+
+[Build a calculator using your new found knowledge of stacks](https://medium.freecodecamp.com/zipline-build-a-smart-javascript-calculator-65e21a8b0b0c#.6feudy4xm)
+
