@@ -52,13 +52,13 @@ var q = Queue();
 console.log('length at start: ', q.length); // 0
 console.log('enqueue: ');
 for (var i = 0; i < 3; i++) { 
-  console.log(q.enqueue(i)); // Head[0]Tail --> H[0, 1]T --> H[0, 1, 2]T
+  console.log(q.enqueue(i)); // H[]T --> Head[0]Tail --> H[0, 1]T --> H[0, 1, 2]T
 }
 
 console.log('length after adding 3 items: ', q.length); // 3
 console.log('dequeue: ');
 for (var i = 0; i < 3; i++) {
- console.log(q.dequeue());  // Head[0, 1, 2]Tail --> H[1, 2]T --> H[2]T
+ console.log(q.dequeue());  // Head[0, 1, 2]Tail --> H[1, 2]T --> H[2]T --> H[]T
 }
 
 console.log('length after removing everything: ', q.length); // 0
